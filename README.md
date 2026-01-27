@@ -72,7 +72,7 @@ Now, run sys161 kernel from inside ~/os161/root/
 
 - [Description of task 2 (questions to answer)](https://github.com/cse4001/os161-code-reading/blob/main/questions.md)
 
-
+**⚠️ The automated test does not check the written answers. It only checks the code building and result of running the test function.**
     
 
 
