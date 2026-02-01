@@ -66,7 +66,7 @@ Now, run sys161 kernel from inside ~/os161/root/
 
 ### **Task 1: Fix the errors**
 
-- [Description of task 1 (fix errors)](https://github.com/cse4001/asst2-os161-code-reading/blob/main/fix_errors.md)
+- [Description of task 1 (fix errors)](./fix_errors.md)
 
 ### **Task 2: Answer the following questions**
 
